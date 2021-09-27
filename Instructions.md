@@ -1,7 +1,7 @@
 # Windows_Activ
 WIndows Activator simple! 
 
-For most people just use the option 2 for activate and associate to microsoft account automatically.
+For most people with WIN 10 just use the option 2 for activate and associate to microsoft account automatically.
 
 The other option just for who know what are doing.
 
